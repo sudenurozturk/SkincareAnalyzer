@@ -27,7 +27,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 2. Gerekli kütüphaneleri yükleyin:
 pip install -r requirements.txt
 
-3.Ana dizine bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin:
+3. Ana dizine bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin:
 GOOGLE_API_KEY=your_api_key_here
 
 4. Uygulamayı başlatın:
@@ -43,7 +43,7 @@ Görsel İşleme: PIL (Pillow)
 
 Güvenlik: API anahtarları .env ve .gitignore ile korunmaktadır.
 
-⚠️ Yasal Uyarı
+⚠️Uyarı
 Bu uygulama bilgilendirme amaçlıdır ve tıbbi tavsiye niteliği taşımaz. Herhangi bir ürünü kullanmadan önce mutlaka bir dermatoloğa danışınız.
 
 Geliştiren: Sude Nur Öztürk
